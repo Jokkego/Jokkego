@@ -54,14 +54,8 @@ Computer Science graduate and aspiring Cloud/DevOps engineer. Passionate about L
   <br />
 
   <h4>📖 Currently Reading</h4>
-  <p>
-    <img src="https://img.shields.io/badge/READING-Thinking,_Fast_and_Slow_—_Daniel_Kahneman-blueviolet?style=for-the-badge&logo=readme" />
-  </p>
-
-  <h4>✅ Read in 2026</h4>
   <ul>
-    <li><b>"Clean Code"</b> — Robert C. Martin <i>(⭐⭐⭐⭐⭐)</i></li>
-    <li><b>"The Daily Stoic"</b> — Ryan Holiday <i>(⭐⭐⭐⭐☆)</i></li>
+    <li><b>"Thinking, Fast and Slow"</b> — Daniel Kahneman</li>
   </ul>
 
   <h4>🎯 Reading Queue & Backlog</h4>
@@ -74,12 +68,14 @@ Computer Science graduate and aspiring Cloud/DevOps engineer. Passionate about L
 
   <h5>🏛️ Philosophy & Fiction</h5>
   <ul>
+    <li><b>"The Daily Stoic"</b> — Ryan Holiday</li>
     <li><b>"Letters from a Stoic"</b> — Seneca</li>
     <li><b>"The Three-Body Problem"</b> — Cixin Liu</li>
   </ul>
 
-  <h5>☁️ Cloud Architecture, DevOps & Infrastructure</h5>
+  <h5>☁️ Cloud Architecture, DevOps & Software Engineering</h5>
   <ul>
+    <li><b>"Clean Code"</b> — Robert C. Martin</li>
     <li><b>"Designing Data-Intensive Applications"</b> — Martin Kleppmann <i>(Distributed systems & backend bible)</i></li>
     <li><b>"Terraform: Up & Running"</b> — Yevgeniy Brikman <i>(Infrastructure as Code)</i></li>
     <li><b>"Kubernetes in Action"</b> — Marko Lukša <i>(Container orchestration)</i></li>

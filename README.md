@@ -52,6 +52,6 @@ Computer Science graduate and aspiring Cloud/DevOps engineer. Passionate about L
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jokkego&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jokkego&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 <p align="left">

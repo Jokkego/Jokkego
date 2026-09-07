@@ -47,7 +47,10 @@ Computer Science graduate and aspiring Cloud/DevOps engineer. Passionate about L
 * 📚 Deep diving into Linux networking, system administration, and DevSecOps practices.
 * 🐍 Developing Python pet-projects (automation, containerized video stream processing).
 
+  
+https://wordleroflan.com
 ---
+
 
 <details>
   <summary><b>📚 My Bookshelf (Click to expand)</b></summary>

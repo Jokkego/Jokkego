@@ -56,16 +56,12 @@ https://wordleroflan.com
   <summary><b>📚 My Bookshelf (Click to expand)</b></summary>
   <br />
 
-  <h4>📖 Currently Reading</h4>
-  <ul>
-    <li><b>"Thinking, Fast and Slow"</b> — Daniel Kahneman</li>
-  </ul>
-
   <h4>🎯 Reading Queue & Backlog</h4>
 
   <h5>🧠 Psychology, Self-Improvement & Science</h5>
   <ul>
-    <li><b>"Sapiens: A Brief History of Humankind"</b> — Yuval Noah Harari</li>
+    <li><b>"Thinking, Fast and Slow"</b> — Daniel Kahneman</li> <h4>📖 Currently Reading</h4>
+    <li><b>"Sapiens: A Brief History of Humankind"</b> — Yuval Noah Harari</li> <h4>📖 Currently Reading</h4>
     <li><b>"Why We Sleep: Unlocking the Power of Sleep and Dreams"</b> — Matthew Walker</li>
   </ul>
 

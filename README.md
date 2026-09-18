@@ -51,7 +51,6 @@ Computer Science graduate and aspiring Cloud/DevOps engineer. Passionate about L
 https://wordleroflan.com
 ---
 
-
 <details>
   <summary><b>📚 My Bookshelf (Click to expand)</b></summary>
   <br />
@@ -60,8 +59,8 @@ https://wordleroflan.com
 
   <h5>🧠 Psychology, Self-Improvement & Science</h5>
   <ul>
-    <li><b>"Thinking, Fast and Slow"</b> — Daniel Kahneman</li> <h4>📖 Currently Reading</h4>
-    <li><b>"Sapiens: A Brief History of Humankind"</b> — Yuval Noah Harari</li> <h4>📖 Currently Reading</h4>
+    <li><b>"Thinking, Fast and Slow"</b> — Daniel Kahneman  📖 Currently Reading </li> 
+    <li><b>"Sapiens: A Brief History of Humankind"</b> — Yuval Noah Harari 📖 Currently Reading </li> 
     <li><b>"Why We Sleep: Unlocking the Power of Sleep and Dreams"</b> — Matthew Walker</li>
   </ul>
 

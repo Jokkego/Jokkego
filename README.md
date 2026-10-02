@@ -40,15 +40,32 @@ Computer Science graduate and aspiring Cloud/DevOps engineer. Passionate about L
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
+
 ---
 
-### 🎯 Current Focus & Projects
+### 🎯 Current Focus
 
 * 📚 Deep diving into Linux networking, system administration, and DevSecOps practices.
-* 🐍 Developing Python pet-projects (automation, containerized video stream processing).
+* 🐍 Developing Python automation scripts and containerized services.
 
-  
-https://wordleroflan.com
+---
+
+### 🚀 Featured Projects
+
+<details>
+  <summary><b>🕹️ Wordle Cloud — Multiplayer Competitive Web Game (Click to expand)</b></summary>
+  <br />
+
+  A containerized, multi-language Wordle platform featuring real-time rate limiting, OAuth2 authentication, and seasonal competitive leaderboards.
+
+  * <b>Tech Stack:</b> Python (FastAPI), PostgreSQL, Docker & Docker Compose, Nginx, SQLAlchemy, SlowAPI, JWT.
+  * <b>Production Metrics:</b> Successfully handled a 4-day community tournament with <b>2,500+ completed matches</b>, 50+ registered users, and 1,200+ guest sessions.
+  * <b>Key Highlights:</b>
+    * <b>Security & Fair Play:</b> Implemented IP-based rate limiting (`45 req/min`), JWT session cookies, and reset-quit penalty mechanics to prevent reroll abuse.
+    * <b>Monitoring & Anti-Cheat:</b> Built-in structured real-time tracing via stdout/Docker logs for input verification and entropy pattern detection.
+    * <b>Automation:</b> Asynchronous daily score decay (`-2 PTS/day` AFK penalty) running as an in-memory background worker via FastAPI lifespan.
+</details>
+
 ---
 
 <details>
@@ -81,4 +98,3 @@ https://wordleroflan.com
     <li><b>"Cloud Application Architectures"</b> — George Reese</li>
   </ul>
 </details>
-<p align="left">

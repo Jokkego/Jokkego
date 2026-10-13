@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Dmytro
 
-> **Junior Cloud & DevOps Engineer** 
+> **Junior Infrastructure & Systems Engineer** 
 
 Computer Science graduate and aspiring Cloud/DevOps engineer. Passionate about Linux system administration, containerization, scripting, and building infrastructure.
 
